@@ -1,9 +1,13 @@
 # Algorithm Resources
 
-## Coding Questions
+## How to Get Started
+1. Clone the repo:
+    ```git clone https://github.com/joellepfernandez/algorithm_resources.git```
+2. Install dependencies:
+    ```npm install```
 
-- [ ] sameFrequency (Frequency Counters)
-- [ ] areThereDuplicates (Frequency Counters)
+## How to Run Tests
+```npm test```
 
 ## Common Patterns
 
@@ -23,5 +27,11 @@ Information to be added...
 <summary>Divide & Conquer</summary>
 Information to be added...
 </details>
+
+## Coding Questions
+
+### Frequency Counters
+- [ ] sameFrequency (Frequency Counters)
+- [ ] areThereDuplicates (Frequency Counters)
 
 ## Resources
