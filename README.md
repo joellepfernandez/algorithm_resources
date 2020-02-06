@@ -7,7 +7,11 @@
     ```npm install```
 
 ## How to Run Tests
+To run all tests:
 ```npm test```
+
+To run a specific test:
+```npm test TESTNAME```
 
 ## Common Patterns
 
