@@ -1,0 +1,23 @@
+{
+  "name": "algorithm_resources",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joellepfernandez/algorithm_resources.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joellepfernandez/algorithm_resources/issues"
+  },
+  "homepage": "https://github.com/joellepfernandez/algorithm_resources#readme"
+}
