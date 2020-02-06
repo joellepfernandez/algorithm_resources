@@ -11,3 +11,7 @@ test('same frequency with an additional letter', () => {
 test('not the same frequency', () => {
     expect(sameFrequency('two', 'five')).toBe(false);
 });
+
+test('same length different frequency', () => {
+  expect(sameFrequency('seven', 'eight')).toBe(false);
+});
