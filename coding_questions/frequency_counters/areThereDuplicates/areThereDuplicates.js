@@ -1,12 +1,14 @@
 function areThereDuplicates() {
+    // Adds every variable number of arguments to a lookup
     const lookup = {};
-    for (let num in arguments){
-      lookup[arguments[num]] = (lookup[arguments[num]] || 0) + 1;
+    for (let n in arguments) {
+        lookup[arguments[n]] = (lookup[arguments[n]] || 0) + 1;
     }
-    for (let key in lookup){
-      if (lookup[key] > 1){
-        return true;
-      }
+    // Checks if any key is more than 1
+    for (let key in lookup) {
+        if (lookup[key] > 1) {
+            return true;
+        }
     }
     return false;
 }

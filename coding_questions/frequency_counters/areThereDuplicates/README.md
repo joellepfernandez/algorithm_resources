@@ -11,5 +11,5 @@ O(n) | O(n)
 ## Examples
 
 * areThereDuplicates(1, 2, 3) -> false
-* sameFrequency(1, 2, 2) -> true
-* sameFrequency('a', 'b', 'c', 'a') -> true
+* areThereDuplicates(1, 2, 2) -> true
+* areThereDuplicates('a', 'b', 'c', 'a') -> true
