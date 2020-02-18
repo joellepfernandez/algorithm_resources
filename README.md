@@ -43,5 +43,4 @@ Information to be added...
 - [ ] isSubsequence
 
 ## Resources
-algoexpert.io
-leetcode.com
+algoexpert.io | leetcode.com
