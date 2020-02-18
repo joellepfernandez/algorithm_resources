@@ -35,7 +35,13 @@ Information to be added...
 ## Coding Questions
 
 ### Frequency Counters
-- [ ] sameFrequency (Frequency Counters)
-- [ ] areThereDuplicates (Frequency Counters)
+- [ ] sameFrequency
+- [ ] areThereDuplicates
+
+### Frequency Counters
+- [ ] averagePair
+- [ ] isSubsequence
 
 ## Resources
+algoexpert.io
+leetcode.com
