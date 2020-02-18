@@ -38,7 +38,7 @@ Information to be added...
 - [ ] sameFrequency
 - [ ] areThereDuplicates
 
-### Frequency Counters
+### Multiple Pointers
 - [ ] averagePair
 - [ ] isSubsequence
 
