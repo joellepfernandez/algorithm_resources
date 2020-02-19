@@ -2,15 +2,20 @@
 
 ## How to Get Started
 1. Clone the repo:
+
     ```git clone https://github.com/joellepfernandez/algorithm_resources.git```
+
 2. Install dependencies:
+
     ```npm install```
 
 ## How to Run Tests
 To run all tests:
+
 ```npm test```
 
 To run a specific test:
+
 ```npm test TESTNAME```
 
 ## Common Patterns
@@ -42,5 +47,9 @@ Information to be added...
 - [ ] averagePair
 - [ ] isSubsequence
 
+### Sliding Window
+- [ ] maxSubarraySum
+
 ## Resources
-algoexpert.io | leetcode.com
+- [AlgoExpert](algoexpert.io)
+- [LeetCode](leetcode.com)
