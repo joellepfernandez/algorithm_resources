@@ -27,4 +27,4 @@ function averagePair(arr, num) {
     return false;
 }
 
-module.exports = averagePair; 
+module.exports = averagePair;
