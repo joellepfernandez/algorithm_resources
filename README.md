@@ -1,22 +1,24 @@
 # Algorithm Resources
 
 ## How to Get Started
+
 1. Clone the repo:
 
-    ```git clone https://github.com/joellepfernandez/algorithm_resources.git```
+    `git clone https://github.com/joellepfernandez/algorithm_resources.git`
 
 2. Install dependencies:
 
-    ```npm install```
+    `npm install`
 
 ## How to Run Tests
+
 To run all tests:
 
-```npm test```
+`npm test`
 
 To run a specific test:
 
-```npm test TESTNAME```
+`npm test TESTNAME`
 
 ## Common Patterns
 
@@ -40,16 +42,21 @@ Information to be added...
 ## Coding Questions
 
 ### Frequency Counters
-- [ ] sameFrequency
-- [ ] areThereDuplicates
+
+-   [ ] sameFrequency
+-   [ ] areThereDuplicates
+-   [ ] canMakePalindrome
 
 ### Multiple Pointers
-- [ ] averagePair
-- [ ] isSubsequence
+
+-   [ ] averagePair
+-   [ ] isSubsequence
 
 ### Sliding Window
-- [ ] maxSubarraySum
+
+-   [ ] maxSubarraySum
 
 ## Resources
-- [AlgoExpert](algoexpert.io)
-- [LeetCode](leetcode.com)
+
+-   [AlgoExpert](algoexpert.io)
+-   [LeetCode](leetcode.com)
