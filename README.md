@@ -57,7 +57,7 @@ Information to be added...
 
 -   [ ] maxSubarraySum
 
-### Hash Map
+### Hash Table
 
 -   [ ] twoNumberSum
 

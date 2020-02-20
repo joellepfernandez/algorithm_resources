@@ -8,7 +8,7 @@ function twoNumberSum(array, targetSum) {
      * difference = -1
      * [-1, 11]
      *
-     * 1. Create a hash map.
+     * 1. Create a hash table.
      * 2. Iterate through the array, keeping track of the current value in the array.
      * 3. Calculate the difference between the target sum and the current value.
      * 4. If the difference is in the hash map, return an array order sorted smallest to largest.
