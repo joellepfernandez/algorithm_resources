@@ -51,10 +51,15 @@ Information to be added...
 
 -   [ ] averagePair
 -   [ ] isSubsequence
+-   [ ] twoNumberSum
 
 ### Sliding Window
 
 -   [ ] maxSubarraySum
+
+### Hash Map
+
+-   [ ] twoNumberSum
 
 ## Resources
 
