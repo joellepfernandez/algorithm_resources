@@ -1,5 +1,9 @@
 const canMakePalindrome = require('./canMakePalindrome');
 
+test('can make a palindrome no odd frequencies', () => {
+    expect(canMakePalindrome('abcabc')).toBe(true);
+});
+
 test('can make a palindrome', () => {
     expect(canMakePalindrome('madam')).toBe(true);
 });

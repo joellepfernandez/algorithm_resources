@@ -35,7 +35,7 @@ function canMakePalindrome(string) {
     for (let letter in frequencyCounter) {
         if (frequencyCounter[letter] % 2 !== 0) numberOfOddFrequencies += 1;
     }
-    if (numberOfOddFrequencies === 1) return true;
+    if (numberOfOddFrequencies <= 1) return true;
     return false;
 }
 
