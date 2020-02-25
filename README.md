@@ -52,6 +52,7 @@ Information to be added...
 -   [ ] averagePair
 -   [ ] isSubsequence
 -   [ ] twoNumberSum
+-   [ ] threeNumberSum
 
 ### Sliding Window
 
