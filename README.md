@@ -53,6 +53,7 @@ Information to be added...
 -   [ ] isSubsequence
 -   [ ] twoNumberSum
 -   [ ] threeNumberSum
+-   [ ] isPalindrome
 
 ### Sliding Window
 
