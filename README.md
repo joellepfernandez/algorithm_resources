@@ -58,6 +58,7 @@ Information to be added...
 ### Sliding Window
 
 -   [ ] maxSubarraySum
+-   [ ] findLongestSubstring
 
 ### Hash Table
 
